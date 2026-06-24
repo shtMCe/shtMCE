@@ -2,7 +2,7 @@
 
 **`Estudante de SI`**
 
-Me chamo Maria Cecília, tenho 19 anos e sou natural de Minas Gerais. Atualmente, estou cursando Sistemas de Informação na UFV. Desde pequena minha vida é a tecnologia. Sempre tentando evoluir e aprender.
+Me chamo Maria Cecília, tenho 19 anos e sou natural de Minas Gerais. Atualmente, estou cursando meu primeiro periodo de Sistemas de Informação na UFV. Desde pequena minha vida é a tecnologia. Sempre tentando evoluir e aprender.
 <br/>
 <br/>
 Acompanhe minha evolução e caminhada aqui: [Instagram Dev](https://www.instagram.com/ceci_dev)
