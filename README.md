@@ -44,14 +44,9 @@ Desde pequena sou apaixonada por tecnologia e hoje estou construindo minha base 
 
 <p align="center">
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=shtMCe&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=shtMCe"
   />
-
-<img
- height="180em"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=shtMCe&layout=compact&langs_count=8&theme=dracula&custom_title=Tecnologias"
-/>
+</p>
 
 </p>
 
