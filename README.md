@@ -11,9 +11,9 @@ Desde pequena sou apaixonada por tecnologia e hoje estou construindo minha base 
 ### 🚀 Atualmente estudando
 
 * Linguagem C
-* Python
-* HTML e CSS
-* Banco de Dados
+* Python básico
+* HTML e CSS básico
+* Banco de Dados básico
 * Lógica de Programação
 * Estruturas de Dados
 
