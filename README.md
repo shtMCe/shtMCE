@@ -1,52 +1,69 @@
-# 👩🏼‍💻 Maria Cecília Rosa
+# 👩🏻‍💻 Maria Cecília Rosa Gonçalves
 
-**`Estudante de SI`**
+**`Estudante de Sistemas de Informação | Desenvolvedora em Formação`**
 
-Me chamo Maria Cecília, tenho 19 anos e sou natural de Minas Gerais. Atualmente, estou cursando meu primeiro periodo de Sistemas de Informação na UFV. Desde pequena minha vida é a tecnologia. Sempre tentando evoluir e aprender.
-<br/>
-<br/>
-Acompanhe minha evolução e caminhada aqui: [Instagram Dev](https://www.instagram.com/ceci_dev)
-<br/>
-Todas minhas redes: [Social Medias](https://linktr.ee/maria.cecilia.goncalves)
+Olá! Me chamo Maria Cecília, tenho 19 anos e sou de Minas Gerais, Brasil 🇧🇷
+
+Atualmente curso **Sistemas de Informação** na **Universidade Federal de Viçosa (UFV) - Campus Rio Paranaíba**.
+
+Desde pequena sou apaixonada por tecnologia e hoje estou construindo minha base em programação, desenvolvimento de software e computação. Estou sempre buscando aprender algo novo e evoluir como desenvolvedora.
+
+### 🚀 Atualmente estudando
+
+* Linguagem C
+* Python
+* HTML e CSS
+* Banco de Dados
+* Lógica de Programação
+* Estruturas de Dados
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🌎 Conecte-se comigo
 
-<img 
-    align="left" 
-    alt="C" 
-    title="Linguagem C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-/>
+📷 Instagram Dev:
+[ceci_dev](https://www.instagram.com/ceci_dev)
 
-<br/>
-<br/>
+🔗 Todas as minhas redes:
+[Linktree](https://linktr.ee/maria.cecilia.goncalves)
 
-### 📊 Estatísticas
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=shtMCe&show_icons=true&theme=dracula"
-  />
+### 💻 Linguagens e Tecnologias
 
-  <img 
-      align="left" 
-      alt="Top Languages" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=shtMCe&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
+<p align="left">
+  <img alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </p>
 
+---
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=shtMCe&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"
+  />
+
+<img
+ height="180em"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=shtMCe&layout=compact&langs_count=8&theme=dracula&custom_title=Tecnologias"
+/>
+
+</p>
+
+---
+
+### 🎯 Objetivos para 2026
+
+* Aprender Git e GitHub avançado
+* Desenvolver projetos para portfólio
+* Conseguir minha primeira oportunidade na área de tecnologia
+* Evoluir como desenvolvedora todos os dias
+
+---
+
+⭐ Obrigada pela visita ao meu perfil!
