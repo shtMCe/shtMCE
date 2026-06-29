@@ -42,11 +42,10 @@ Desde pequena sou apaixonada por tecnologia e hoje estou construindo minha base 
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shtMCe"
-  />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=shtMCe&theme=dracula)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shtMCe&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shtMCe&theme=dracula)
 
 </p>
 
