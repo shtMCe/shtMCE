@@ -25,7 +25,7 @@ Desde pequena sou apaixonada por tecnologia e hoje estou construindo minha base 
 [ceci_dev](https://www.instagram.com/ceci_dev)
 
 🔗 Meu portifólio:
-[Linktree](https://shtmce.github.io/Minhas-Redes/)
+[Portifólio Ceci](https://shtmce.github.io/Minhas-Redes/)
 
 ---
 
