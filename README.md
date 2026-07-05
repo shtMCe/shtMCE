@@ -24,8 +24,8 @@ Desde pequena sou apaixonada por tecnologia e hoje estou construindo minha base 
 📷 Instagram Dev:
 [ceci_dev](https://www.instagram.com/ceci_dev)
 
-🔗 Todas as minhas redes:
-[Linktree](https://linktr.ee/maria.cecilia.goncalves)
+🔗 Meu portifólio:
+[Linktree](https://shtmce.github.io/Minhas-Redes/)
 
 ---
 
