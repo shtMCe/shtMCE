@@ -11,11 +11,8 @@ Desde pequena sou apaixonada por tecnologia e hoje estou construindo minha base 
 ### 🚀 Atualmente estudando
 
 * Linguagem C
-* Python básico
-* HTML e CSS básico
-* Banco de Dados básico
 * Lógica de Programação
-* Estruturas de Dados
+* Git/Github
 
 ---
 
@@ -33,9 +30,7 @@ Desde pequena sou apaixonada por tecnologia e hoje estou construindo minha base 
 
 <p align="left">
   <img alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </p>
 
 ---
