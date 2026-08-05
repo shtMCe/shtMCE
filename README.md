@@ -48,10 +48,9 @@ Desde pequena sou apaixonada por tecnologia e hoje estou construindo minha base 
 
 ### 🎯 Objetivos para 2026
 
-* Aprender Git e GitHub avançado
-* Desenvolver projetos para portfólio
+* Dominar HTML/CSS
+* Estrutura de dados (2º período faculdade)
 * Conseguir minha primeira oportunidade na área de tecnologia
-* Evoluir como desenvolvedora todos os dias
 
 ---
 
