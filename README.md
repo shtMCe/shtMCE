@@ -1,13 +1,10 @@
-<p align="center">
-<h1><b>Olá! Eu sou a Maria Cecília</h1>
-</p>
+<div align="center">
 
-<br>
+# Olá! Eu sou a Maria Cecília 👋
 
-<p align="center">
-🎓 Sistemas de Informação • UFV - 2º período <br>
-💜 Minas Gerais, Brasil
-</p>
+### Estudante de Sistemas de Informação • UFV - CRP | 2º período
+
+</div>
 
 <p align="center">
 <a href="https://github.com/shtMCe">
