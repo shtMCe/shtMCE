@@ -1,64 +1,195 @@
-# 👩🏻‍💻 Maria Cecília Rosa Gonçalves
+# 👋 Olá! Eu sou a Maria Cecília
 
-**`Estudante de Sistemas de Informação | Desenvolvedora em Formação`**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Estudante+de+Sistemas+de+Informação;Construindo+uma+base+sólida+em+Computação;Apaixonada+por+Algoritmos+e+Linguagem+C;Em+busca+da+primeira+oportunidade+Dev" />
+</p>
 
-Olá! Me chamo Maria Cecília, tenho 19 anos e sou de Minas Gerais, Brasil 🇧🇷
+<p align="center">
+🎓 Sistemas de Informação • UFV - 2º período <br>
+💜 Minas Gerais, Brasil
+</p>
 
-Atualmente curso **Sistemas de Informação** na **Universidade Federal de Viçosa (UFV) - Campus Rio Paranaíba**.
+<p align="center">
+<a href="https://github.com/shtMCe">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-Desde pequena sou apaixonada por tecnologia e hoje estou construindo minha base em programação, desenvolvimento de software e computação. Estou sempre buscando aprender algo novo e evoluir como desenvolvedora.
+<a href="https://www.linkedin.com/in/ceci-goncalves/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### 🚀 Atualmente estudando
-
-* Linguagem C
-* Lógica de Programação
-* Git/Github
-* SQL
+<img src="https://komarev.com/ghpvc/?username=shtMCe&style=for-the-badge&color=8A2BE2"/>
+</p>
 
 ---
 
-## 🌎 Se conecte comigo
+# 💜 Sobre mim
 
-<div align="center">
+Enquanto muita gente corre para aprender dezenas de frameworks, eu decidi seguir outro caminho.
+
+Quero construir uma base sólida primeiro.
+
+Atualmente estudo **Sistemas de Informação** na **Universidade Federal de Viçosa (UFV)** e concentro meus estudos em lógica de programação, algoritmos, estruturas de dados e linguagem C.
+
+Acredito que dominar os fundamentos é o que permite aprender qualquer tecnologia com mais facilidade no futuro.
+
+Meu objetivo é evoluir constantemente e conquistar minha primeira oportunidade como desenvolvedora.
+
+---
+
+# 🚀 Atualmente
+
+- 🧠 Resolvendo exercícios no Beecrowd
+- 🏆 Participando de maratonas de programação
+- 💻 Desenvolvendo projetos em Linguagem C
+- 📚 Estudando SQL
+- 🌱 Estudando Estruturas de Dados
+
+---
+
+# 🛠 Tecnologias
+
+## Linguagens
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,html" />
+</p>
+
+## Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+## Estudando
+
+<p>
+<img src="https://skillicons.dev/icons?i=css,postgres" />
+</p>
+
+---
+
+# ⚔ Projeto em destaque
+
+## RPG em Linguagem C
+
+Meu principal projeto até o momento é um RPG desenvolvido em **Linguagem C** com aproximadamente **700 linhas de código**.
+
+Durante esse projeto pratiquei:
+
+- Structs
+- Modularização
+- Funções de Combate
+- Organização de Código
+
+Esse projeto representa minha evolução na linguagem C e na construção de software.
+
+---
+
+# 📈 Minha Jornada
+
+```text
+Lógica de Programação
+        │
+        ▼
+Linguagem C
+        │
+        ▼
+Beecrowd
+        │
+        ▼
+Maratonas
+        │
+        ▼
+Git & GitHub
+        │
+        ▼
+Estruturas de Dados
+        │
+        ▼
+SQL
+        │
+        ▼
+Java
+        │
+        ▼
+🚀 Primeira oportunidade como Desenvolvedora
+```
+
+---
+
+# 📊 Roadmap
+
+| Conhecimento | Status |
+|---------------|:----:|
+| Lógica de Programação | 🟣🟣🟣🟣🟣 |
+| Linguagem C | 🟣🟣🟣🟣⚪ |
+| Git & GitHub | 🟣🟣🟣🟣⚪ |
+| HTML | 🟣🟣🟣⚪⚪ |
+| SQL | 🟣🟣⚪⚪⚪ |
+| Estruturas de Dados | 🟣🟣⚪⚪⚪ |
+
+---
+
+# 🧠 Minha filosofia
+
+> Não quero aprender dezenas de tecnologias superficialmente.
+>
+> Quero entender profundamente uma.
+>
+> Quero escrever código limpo.
+>
+> Quero resolver problemas antes de pensar em frameworks.
+>
+> Acredito que uma boa base nunca fica obsoleta.
+
+---
+
+# 📊 Estatísticas
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shtMCe&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shtMCe&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=shtMCe&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shtMCe&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎯 Objetivos
+
+- 🎯 Conseguir minha primeira oportunidade como Desenvolvedora
+- 📚 Dominar Estruturas de Dados
+- 🧩 Evoluir cada vez mais em Algoritmos
+- 🚀 Construir projetos maiores
+
+---
+
+# 📬 Contato
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ceci-goncalves/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <a href="https://github.com/shtMCe">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="[https://linkedin.com](https://www.linkedin.com/in/ceci-goncalves/)">
-<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-### 💻 Linguagens e Tecnologias
-
-<p align="left">
-  <img alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-</p>
-
----
-
-### 📊 Estatísticas do GitHub
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shtMCe&theme=dracula)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shtMCe&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shtMCe&theme=dracula)
 
 </p>
 
 ---
 
-### 🎯 Objetivos para 2026
+<p align="center">
 
-* Dominar HTML/CSS
-* Estrutura de dados (2º período faculdade)
-* Conseguir minha primeira oportunidade na área de tecnologia
+> "Não estou tentando aprender tudo. Estou tentando aprender bem."
 
----
+⭐ Obrigada por visitar meu perfil!
 
-⭐ Obrigada pela visita ao meu perfil!
+</p>
