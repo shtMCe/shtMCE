@@ -16,13 +16,19 @@ Desde pequena sou apaixonada por tecnologia e hoje estou construindo minha base 
 
 ---
 
-### 🌎 Conecte-se comigo
+## 🌎 Connect With Me
 
-📷 Instagram Dev:
-[ceci_dev](https://www.instagram.com/ceci_dev)
+<div align="center">
 
-🔗 Meu portifólio:
-[Portifólio Ceci](https://shtmce.github.io/Minhas-Redes/)
+<a href="https://github.com/shtMCe">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="[https://linkedin.com](https://www.linkedin.com/in/ceci-goncalves/)">
+<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
