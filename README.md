@@ -1,8 +1,10 @@
+<p align="center">
+<h1><b>Olá! Eu sou a Maria Cecília<\b></h1>
+</p>
 
+<br>
 
 <p align="center">
-#👋 Olá! Eu sou a Maria Cecília
-<br>
 🎓 Sistemas de Informação • UFV - 2º período <br>
 💜 Minas Gerais, Brasil
 </p>
