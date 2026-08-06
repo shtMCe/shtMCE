@@ -13,6 +13,7 @@ Desde pequena sou apaixonada por tecnologia e hoje estou construindo minha base 
 * Linguagem C
 * Lógica de Programação
 * Git/Github
+* SQL
 
 ---
 
