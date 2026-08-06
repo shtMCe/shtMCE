@@ -16,7 +16,7 @@ Desde pequena sou apaixonada por tecnologia e hoje estou construindo minha base 
 
 ---
 
-## 🌎 Connect With Me
+## 🌎 Se conecte comigo
 
 <div align="center">
 
