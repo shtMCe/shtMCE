@@ -1,10 +1,8 @@
+
+
+<p align="center">
 # 👋 Olá! Eu sou a Maria Cecília
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Estudante+de+Sistemas+de+Informação;Construindo+uma+base+sólida+em+Computação;Apaixonada+por+Algoritmos+e+Linguagem+C;Em+busca+da+primeira+oportunidade+Dev" />
-</p>
-
-<p align="center">
+  <br>
 🎓 Sistemas de Informação • UFV - 2º período <br>
 💜 Minas Gerais, Brasil
 </p>
