@@ -39,7 +39,6 @@ Meu objetivo é evoluir constantemente e conquistar minha primeira oportunidade 
 - 🧠 Resolvendo exercícios no Beecrowd
 - 🏆 Participando de maratonas de programação
 - 💻 Desenvolvendo projetos em Linguagem C
-- 📚 Estudando SQL
 - 🌱 Estudando Estruturas de Dados
 
 ---
