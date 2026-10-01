@@ -57,11 +57,6 @@ Meu objetivo é evoluir constantemente e conquistar minha primeira oportunidade 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-## Estudando
-
-<p>
-<img src="https://skillicons.dev/icons?i=css,postgres" />
-</p>
 
 ---
 
